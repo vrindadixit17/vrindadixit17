@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Vrinda👋
+I'm a passionate ECE student, software developer, and designer who loves building creative projects!
 
-<!--
-**vrindadixit17/vrindadixit17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year ECE Student at MSIT, IPU <br>
+💻 Passionate about Software Dev, UI/UX Design & DSA<br>
+🗣️ President of the Dance Society | Debater | Creative Explorer<br>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- 🤖 Stack: MERN<br>
+- 💻 Languages: JavaScript, C, C++, Java, HTML, CSS<br>
+- 🧠 Domains: Web Dev, DSA, UI/UX, Data Analytics<br>
+- 🧰 Tools: React, Figma, Git, VS Code, TailwindCSS<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- Portfolio: [behance](https://www.behance.net/vrindadixit)<br>
+- LinkedIn: [linkedin](https://www.linkedin.com/in/vrinda-dixit-30a591307/)<br>
+
+
